@@ -1,1 +1,1 @@
-print("Budi mero anushka! malai chodera gaye k garnu ma")
+print("Budi mero sharma! malai chodera gaye k garnu ma")
