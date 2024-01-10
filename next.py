@@ -1,0 +1,1 @@
+print("Budi mero anushka! malai chodera gaye k garnu ma")
